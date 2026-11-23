@@ -1,0 +1,1 @@
+My agent tried to connect to make.fun, waited thirty seconds for a reply, then gave up — while the same site was happily answering all its other questions.
